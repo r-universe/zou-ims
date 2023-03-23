@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SeerMapper"]
+	path = SeerMapper
+	url = https://github.com/cran/SeerMapper
+	shallow = true
+	registered = true
+[submodule "SeerMapper2010East"]
+	path = SeerMapper2010East
+	url = https://github.com/cran/SeerMapper2010East
+	shallow = true
+	registered = true
+[submodule "SeerMapper2010Regs"]
+	path = SeerMapper2010Regs
+	url = https://github.com/cran/SeerMapper2010Regs
+	shallow = true
+	registered = true
+[submodule "SeerMapper2010West"]
+	path = SeerMapper2010West
+	url = https://github.com/cran/SeerMapper2010West
+	shallow = true
+	registered = true
+[submodule "SeerMapperEast"]
+	path = SeerMapperEast
+	url = https://github.com/cran/SeerMapperEast
+	shallow = true
+	registered = true
+[submodule "SeerMapperRegs"]
+	path = SeerMapperRegs
+	url = https://github.com/cran/SeerMapperRegs
+	shallow = true
+	registered = true
+[submodule "SeerMapperWest"]
+	path = SeerMapperWest
+	url = https://github.com/cran/SeerMapperWest
+	shallow = true
+	registered = true
